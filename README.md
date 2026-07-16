@@ -1,15 +1,14 @@
-# Project 2: Python-Based Data Processing
+# Project 3: Data Cleaning and Preparation
 
 ## Objective
-Learn how to process tabular data using Python and Pandas.
+Prepare raw data for analysis.
 
-## Concepts Used
+## Tasks Performed
+- Inspected dataset structure
+- Removed duplicate records
+- Filled missing values
+- Created a clean dataset ready for analysis
+
+## Tools Used
 - Python
 - Pandas
-- DataFrame
-- Mean
-- Maximum
-- Minimum
-
-## Output
-The program displays student records and calculates average, highest, and lowest marks.
