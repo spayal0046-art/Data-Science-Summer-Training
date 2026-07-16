@@ -1,13 +1,15 @@
-# Project 3: Data Cleaning and Preparation
+# Project 4: Exploratory Data Analysis (EDA)
 
 ## Objective
-Prepare raw data for analysis.
+Explore and understand a dataset before building a Machine Learning model.
 
 ## Tasks Performed
+- Loaded CSV dataset
+- Displayed first records
 - Inspected dataset structure
-- Removed duplicate records
-- Filled missing values
-- Created a clean dataset ready for analysis
+- Generated statistical summary
+- Checked missing values
+- Calculated average, highest and lowest marks
 
 ## Tools Used
 - Python
